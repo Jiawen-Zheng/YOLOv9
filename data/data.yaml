@@ -1,0 +1,10 @@
+
+train: D:/WORK/YOLOv9/datasets/images/train # train images (relative to 'path') 128 images
+val: D:/WORK/YOLOv9/datasets/images/val # val images (relative to 'path') 128 images
+test: D:/WORK/YOLOv9/datasets/images/test # test images (optional)
+
+nc: 3
+
+# Classes
+names: ['flower', 'growth','mature']
+
